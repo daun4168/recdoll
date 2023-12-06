@@ -3,13 +3,13 @@ from distutils.core import setup
 setup(
     name='recdoll',
     packages=['recdoll'],
-    version='0.0.1',
+    version='0.0.2',
     license='MIT',
     description='Best Recommendation Library',   # Give a short description about your library
     author='Daun Jeong',
     author_email='daun.jeong@navercorp.com',
     url='https://github.com/daun4168/recdoll',
-    download_url='https://github.com/daun4168/recdoll/archive/v0.0.1.tar.gz',    # I explain this later on
+    download_url='https://github.com/daun4168/recdoll/archive/v0.0.2.tar.gz',    # I explain this later on
     keywords=['Recommendation', 'Machine Learning'],   # Keywords that define your package best
     install_requires=[
     ],
